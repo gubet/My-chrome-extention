@@ -1,0 +1,19 @@
+body {
+  background: url('https://www.youtube.com/yts/img/yt_1200-vfl4C3T0K.png') !important;
+}
+ 
+#masthead,
+#primary {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+  background-color: #fff;
+  padding: 20px !important;
+}
+#masthead {
+  background: none;
+}
+#masthead img, #primary img {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
+
